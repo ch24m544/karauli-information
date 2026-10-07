@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://karaulis.in"),
 
   title: {
-    default: "Karauli Information | History, Tourism, Temples & Local Services",
+    default: "Karauli Information | History-update, Tourism, Temples & Local Services",
     template: "%s | Karauli Information",
   },
 
