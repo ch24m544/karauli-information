@@ -16,19 +16,22 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://karaulis.in"),
 
   title: {
-    default: "Karauli Information | History-update, Tourism, Temples & Local Services",
+    default: "Karauli District Rajasthan Information | History-update, Tourism, Temples & Local Services",
     template: "%s | Karauli Information",
   },
 
   description:
-    "Discover Karauli, Rajasthan — explore history, heritage, Kaila Devi Temple, tourist places, hotels, markets, government services, hospitals, education, jobs, events and local businesses.",
+    "Discover Karauli district, Rajasthan — explore history, heritage, Kaila Devi Temple, tourist places, hotels, markets, government services, hospitals, education, jobs, events and local businesses.",
 
   keywords: [
     "Karauli",
+    "Karauli District",
+    "Karauli District Rajasthan",
     "Karauli Rajasthan",
     "Karauli tourism",
     "Karauli history",
     "Kaila Devi Temple",
+    "Karauli Kaila Devi Temple",
     "Karauli tourist places",
     "Karauli hotels",
     "Karauli markets",
